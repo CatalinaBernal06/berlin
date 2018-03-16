@@ -50,7 +50,7 @@ for i in range(0, len(over)):
 #        if(type(g) == str):
 #            print(g)
         
-print(over[1])
+print(np.mean(acom[1]))
         
 #n_acom = acom[:]
 #for i in range(0, len(acom)):
